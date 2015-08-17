@@ -7,5 +7,5 @@ Versions (tags)
 ---
 
 <versions>
-- [`latest`](https://github.com/dlanileonardo/docker-jruby/blob/master/latest/Dockerfile)
+- [`latest`](https://github.com/dlanileonardo/docker-mongo-express/blob/master/latest/Dockerfile)
 </versions>
